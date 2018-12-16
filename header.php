@@ -15,7 +15,7 @@ echo '<a href="index.php">Forside</a>
 <a href="kommunikationskilder.php">Kilder</a>
 
 <a href="design.php">Design</a>
-
+<a href="fotografering.php">Fotografering</a>
 
 <a href="webudvikling.php">Webudvikling</a>';
 ?>
