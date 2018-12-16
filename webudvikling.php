@@ -62,5 +62,11 @@
             <h3>Download fonts</h3>
             <p>Adobe TypeKit (Kan kun bruges hvis man har active adobe cc subscription)
             Google Fonts (gratis)</p>
+        <h2>CSS Grids</h2>
+        <p>En af de nyeste specifikationer i CSS-standarden. Ses som det mest revolutionerende siden responsivt webdesign. Det er ikke fuldt understøttet endnu i alle browsere, men næsten. MS EDGE mangler, men er på vej.</p>
+        <p>Grid er på forældreleementets container, og regner selv bredde ud. Man bruger fr, som er en ny måleenhed der betyder fractions. 1fr = en fjerdedel. 3fr = 3 fjerdedele. </p>
+        <p>Vi har brugt Grids til at lave disse øvelser. <a href="filer/webudvikling/cssgridcode.zip">For at downloade koden til disse eksempler klik her</a></p>
+        <img src="billeder/webudvikling/morse.png" alt="Morsekode skema lavet med CSS Grids">
+        <img src="billeder/webudvikling/grid1.png" alt="Illustration af grids">
 	</body>
 </html>

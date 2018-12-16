@@ -23,5 +23,7 @@ echo '<a href="index.php">Forside</a>
 <a href="designkilder.php">Kilder</a>
 
 <a href="webudvikling.php">Webudvikling</a>
-<a href="internettet.php">Internettets historie</a>';
+<a href="internettet.php">Internettets historie</a>
+<a href="server.php">Server</a>
+<a href="responsivtdesign.php">Responsivt design</a>';
 ?>
