@@ -8,6 +8,7 @@
 	<body>
         <div class="menu">
             <?php include 'header.php';?>
+        </div>
             <h1>Fotografering</h1>
             <p>Vi fik meget frie tøjler til at benytte os af kamera, hvor vi forinden fik en gennemgang af de forskellige egenskaber kameraet havde. </p>
             <p>Jeg blev personligt meget inspireret den dag, og valgte efterfølgende at investere i et Canon 70d kamera. </p>
