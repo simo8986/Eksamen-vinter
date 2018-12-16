@@ -20,6 +20,7 @@ echo '<a href="index.php">Forside</a>
 <a href="typografi.php">Typografi</a>
 <a href="gestaltlove.php">Gestaltlove</a>
 <a href="designopgaver.php">Opgaver</a>
+<a href="designkilder.php">Kilder</a>
 
 <a href="webudvikling.php">Webudvikling</a>';
 ?>
