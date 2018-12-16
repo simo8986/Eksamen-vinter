@@ -31,5 +31,5 @@ echo '<a href="index.php">Forside</a>
 <a href="informationsarkitektur.php">Informationsarkitektur</a>
 <a href="feedback.php">Peer review</a>
 <a href="webudviklingopgaver.php">Opgaver</a>
-<a href="webudviklingopkilder.php">Kilder</a>';
+<a href="webudviklingkilder.php">Kilder</a>';
 ?>
