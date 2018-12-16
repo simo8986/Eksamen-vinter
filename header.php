@@ -25,5 +25,7 @@ echo '<a href="index.php">Forside</a>
 <a href="webudvikling.php">Webudvikling</a>
 <a href="internettet.php">Internettets historie</a>
 <a href="server.php">Server</a>
-<a href="responsivtdesign.php">Responsivt design</a>';
+<a href="responsivtdesign.php">Responsivt design</a>
+<a href="versionsstyring.php">Versionsstyring</a>
+<a href="planogdesign.php">Planlægning og overordnet design</a>';
 ?>
