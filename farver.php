@@ -8,9 +8,11 @@
         <link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
+    <div id="grid">
         <div class="menu">
             <?php include 'header.php';?>
         </div>
+       <div class="indhold">
         <h1>Farver</h1>
         <p>Isaac Newton viste i 1600-tallet lysets brydning igennem et prisme. Ved hjælp af hans eksperimenter konkluderede han at blå, gul og rød er de primære farver, da de ikke kan blandes ud af andre farver. </p>
         <p>Det er værd at nævne at et farvesystem ikke er absolut, men bygger på flere teoretiske opfattelser, og kan være forskellige fra kultur til kultur. </p>
@@ -92,5 +94,7 @@
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+        </div>
+        </div>
 	</body>
 </html>

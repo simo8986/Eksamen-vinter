@@ -8,9 +8,11 @@
         <link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
+    <div id="grid">
         <div class="menu">
             <?php include 'header.php';?>
         </div>
+       <div class="indhold">
         <h1>Brugertests</h1>
         <p>Brugertests er det mest anerkendte værktøj, til at afprøve om brugeren kan bruge det angivne produkt. Det giver et godt indblik i hvordan brugeren tænker og gør. I en brugertest bruger man ofte ’tænke højt’ metoden, hvor brugeren skal fortælle alle sine tanker mens den udføre opgaver, så man kan få indblik i begrundelser og overvejelser. </p>
         <p>Brugertesten kan have to formål; at informere eller bekræfte. Man kan bruge den til at finde ud af og forstår hvor brugeren oplever problemer, og den kan bruges til at vise overfor andre hvor problemerne opstår. Det kan eksempelvis være overfor udviklere, eller dem der styre ressourcerne der skal bruges til at ordne det. </p>
@@ -65,5 +67,7 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+        </div>
+        </div>
 	</body>
 </html>

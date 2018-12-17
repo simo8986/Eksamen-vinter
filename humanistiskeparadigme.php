@@ -8,9 +8,11 @@
         <link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
+    <div id="grid">
         <div class="menu">
             <?php include 'header.php';?>
         </div>
+       <div class="indhold">
         <h1>Det humanistiske paradigme</h1>
         <p>Det humanistiske paradigme ligger fokus på modtageren, som bliver set som medskabende.
         Det er baseret på humanistiske fagområder, som kultur, sprog, psykologi, læring, kunst, informationsteknologi, som eksempler. </p>
@@ -77,7 +79,7 @@
     <div class="card-header" id="headingTwo">
       <h5 class="mb-0">
         <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-          <h2>Thorlacius' kommunikationsmodel</h2>
+          <h2>Thorlacius' model</h2>
         </button>
       </h5>
     </div>
@@ -114,10 +116,13 @@
             <p>Det er ikke selve koden på en hjemmeside, men selve det system, som gør at vi giver et website en bestemt betydning. For at modtager og afsender kan forstå hinanden er de vigtigt at de kan samme kode. Koden kan eksempelvis være sproget. En kineser får ikke ret meget ud af en hjemmeside på dansk. Der er to funktioner; Den metakommunikative funktion er når man visuelt eller sprogligt træder ud af situationen og taler om sig selv. Den intersemiotiske funktion er når man trækker på et kodesystem for at forklare et andet kodesystem. For eksempel når man bruger metaforer. </p>
       </div>
     </div>
-  </div>  
+  </div>
+</div>
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+           </div>
+        </div>
 	</body>
 </html>
