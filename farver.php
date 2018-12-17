@@ -14,8 +14,18 @@
         <h1>Farver</h1>
         <p>Isaac Newton viste i 1600-tallet lysets brydning igennem et prisme. Ved hjælp af hans eksperimenter konkluderede han at blå, gul og rød er de primære farver, da de ikke kan blandes ud af andre farver. </p>
         <p>Det er værd at nævne at et farvesystem ikke er absolut, men bygger på flere teoretiske opfattelser, og kan være forskellige fra kultur til kultur. </p>
-        
-        <h2>Farvehjul</h2>
+      <div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h2>Farvehjul</h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
         <img src="billeder/design/farvehjul.png" alt="Farvehjul">
             <h3>Primære</h3>
                 <p>Rene farver - inderste trekant</p>
@@ -23,9 +33,21 @@
                 <p>Blandet af to primære farver - ligger op af primære</p>
             <h3>Tertiære</h3>
                 <p>Blandet af én primær og én sekundær farve - ligger yderst i hjulet</p>
+      </div>
+    </div>
+  </div>  
         
-        <h2>Farverum</h2>
-            <h3>RGB/Red Green Blue</h3>
+    <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h2>Farverum</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        <h3>RGB/Red Green Blue</h3>
                 <p>Additivt farvesystem, lys tilføjes. Benyttes på computer og tv-skærme.</p>
             <h3>CMYK/Cyan Magenta Yellow Key(Black)</h3>
                 <p>Subtraktivt farvesystem, lys trækkes ud. Benyttes til tryksager.</p>
@@ -35,9 +57,21 @@
                 <p>En kulør blandes med forskellige mængder af gråtone. Det siges også at farven får en ’valør/value’.</p>
             <h3>Lyshed/Brightness</h3>
                 <p>En kulør blandes med ren sort eller hvid.</p>
+      </div>
+    </div>
+  </div>    
         
-        <h2>Farvesammensætning</h2>
-            <h3>Monokrom</h3>
+      <div class="card">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <h2>Farvesammensætning</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
+        <h3>Monokrom</h3>
                 <p>Én kulør som justeres i forhold til lyshed og mætning. Den går nærmest fra hvid til sort i nuancer af samme farve.</p>
             <h3>Analog</h3>
                 <p>Én kulør indenfor et bredere spektrum af lyshed og mætning.</p>
@@ -49,7 +83,11 @@
                 <p>Tre farver som ligger lige langt fra hinanden.</p>
             <h3>Tetriader (Dobbeltkomplementere)</h3>
                 <p>Fire farver som er komplementære.</p>
-        
+      </div>
+    </div>
+  </div>
+</div>   
+
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

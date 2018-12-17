@@ -18,7 +18,18 @@
         <p>Når man udfører en eller flere brugertests går det ud fra en idé om brugerinddragelse. Det handler om at forstå brugerens behov, motivation og adfærd, og om at inddrage brugerne for at validere den navigation, prioritering, kommunikation eller andet, det udvikles. Det handler altså om at se brugeren som medudvikler, så den er således med til at kvalitet sikre løsningen. </p>
         <p>Man bør udføre brugertests under hele forløbet, da det ikke er tænkt som en afsluttende kvalitetstjek. Det sker ofte for lidt, og for sent. Det skal derfor foregå Før – Under – Efter forløbet.</p>
         
-        <h2>Kvalitativ metode</h2>
+    <div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h2>Kvalitativ metode</h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
         <p>I de kvalitative metoder indsamles data, som ikke kan beskrives i præcise tal. Fx holdninger og adfærd. Det er altså en blød indsamling af data. Det handler om at forstå de tanker, overvejelser, og følelser respondenterne før sig.</p>
         <p>Indsamlingsmetoder:</p>
         <ul>
@@ -29,11 +40,27 @@
             <li>Data i form af lange/korte interviews med en eller flere personer</li>
             <li>Databearbejdningen består af at fortolke og analysere</li>
         </ul>
+      </div>
+    </div>
+  </div>    
         
-        <h2>Kvantitativ metode</h2>
+       <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h2>Kvantitativ metode</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
         <p>I de kvantitative metoder indsamles hårde data, som det er muligt at sætte præcise tal på. (Eks. Spørgeskema) </p>
         <p>Det handler ikke om at forstå hvorfor folk mener og gør som de gør. Man er groft sagt ligeglad med deres overvejelser. Man antager at det kan måles og kvantificeres. Det er ofte en større datamængde end den kvalitative metode. Det giver mulighed for at generalisere resultaterne. Det handler altså om at forklare, ikke forstå. Data vil ofte være i form af observationer eller besvarelser af lukkede spørgsmål, hvor respondenterne har kunne vælge mellem flere allerede defineret svarmuligheder.</p>
-        
+      </div>
+    </div>
+  </div>
+</div>
+
     <!--- JavaScript --->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

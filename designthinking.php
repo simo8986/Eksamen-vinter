@@ -17,8 +17,20 @@
         <p>Der er 5 faser i Design Thinking: Empathize, Define, Ideate, Prototype, og Test. I nogen modeller er der også en 6 der hedder Implement. Det er ikke en lineær proces, da man altid kan hoppe et trin tilbage. </p>
         <p>Man tænker i divergente og konvergente baner. Når man tænker divergent tænker man kreativt, eksempelvis i en brainstorm. Når man så tænker konvergent, så sortere man fra. Man indskrænker. </p>
         <img src="billeder/kommunikation/design-thinking.png" alt="Design Thinking faser">
-        <h2>De 5 faser</h2>
-            <h3>Fase 1: Empathize</h3>
+        
+        <div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h2>De 5 faser</h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        <h3>Fase 1: Empathize</h3>
             <p>I empathize fasen sætter man sig i brugerens sted, og sætter sine egne antagelser til side. Man skal forsøge at forstå problemet. Det kan man gøre b.la. med disse metoder:</p>
                 <ul>
                     <li>Deltagerobservation</li>
@@ -62,7 +74,10 @@
                     <li>Prototype test</li>
                     <li>Brugertest</li>
                 </ul>
-        
+      </div>
+    </div>
+  </div>
+
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

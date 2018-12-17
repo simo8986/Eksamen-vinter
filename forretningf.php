@@ -14,9 +14,19 @@
         <h1>Forretningsforståelse</h1>
             <p>Produktionsvirksomheder: Fremstiller/Forandre varer <br> 
             Handelsvirksomhed: Køber og sælger varer - ingen forarbejdning. Engros og detail. <br>Servicevirksomheder: Sælger uhåndgribelige varer/tjenesteydelser. Varen/ydelsen kan ikke lagres.</p>
-        
-        <h2>Forretningsmodel</h2>
-            <p>En forretningsmodel beskriver rationalet bag, hvordan en organisation skaber, leverer og fastholder værdi. Det er et strategisk ledelsesværktøj, som kan anvendes til; Den strategiske analyse og den strategisk planlægning. Kort sagt bruges det til at finde ud af hvem virksomhedens kunder er, hvilken værdi de tilbyder kunden, og igennem hvilke kanaler relationen til kunden skabes. </p>
+      <div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h2>Forretningsmodel</h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        <p>En forretningsmodel beskriver rationalet bag, hvordan en organisation skaber, leverer og fastholder værdi. Det er et strategisk ledelsesværktøj, som kan anvendes til; Den strategiske analyse og den strategisk planlægning. Kort sagt bruges det til at finde ud af hvem virksomhedens kunder er, hvilken værdi de tilbyder kunden, og igennem hvilke kanaler relationen til kunden skabes. </p>
             <p>Den viser også hvilke aktiviteter, ressourcer og samarbejdspartnere der er behov for, og hvilke udgifter og indtægter der skal til.</p>
             <p>Det handler om at kende sig selv:</p>
                 <ul>
@@ -51,9 +61,21 @@
 
             <h3>Værdier</h3>
             <p>Værdigrundlagets funktion er at påvirke holdninger i organisationen/virksomheden.</p>
+      </div>
+    </div>
+  </div>  
         
-        <h2>De 7 arketyper</h2>
-            <h3>Den digitale købmand</h3>
+      <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h2>De 7 arketyper</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        <h3>Den digitale købmand</h3>
             <p>Har en fysisk butik, men supplerer med salg via. Nettet. Branding, annoncering, varekataloger, service- og vejledninger på netttet.</p>
 
             <h3>Webshoppen</h3>
@@ -73,8 +95,20 @@
 
             <h3>Wiki-skaberen</h3>
             <p>Brugerne er både skabere samt forbrugere af indholdet. Indtjeningen sker gennem donationer og eller indirekte salg.</p>
+      </div>
+    </div>
+  </div>        
         
-        <h2>Business Model Canvas</h2>
+     <div class="card">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <h2>Business Model Canvas</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
         <img src="billeder/kommunikation/bmc.png" alt="Business Model Canvas">
             <h3>Partnere</h3>
                 <ul>
@@ -146,8 +180,21 @@
                     <li>Hvordan foretrækker kunderne at betale?</li>
                     <li>Hvor meget bidrager hver intægtskilde til den totale omsætning?</li>
                 </ul>
-                
-        <h2>Value Proposition Design</h2>
+      </div>
+    </div>
+  </div>    
+            
+        
+            <div class="card">
+    <div class="card-header" id="headingFour">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          <h2>Value Proposition Design</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
         <p>Value proposition har to sider. Med kundeprofilen kan man kortlægge sin kundeforståelse. Med værdikortet beskriver man hvordan man har tænkt sig at skabe værdi for netop den kunde. Det handler altså om at lave et match.</p>
         <img src="billeder/kommunikation/vpc.png" alt="Value Proposition Design">
         
@@ -173,6 +220,14 @@
         
             <h3>Match</h3>
             <p>Man opnår et match når du adresserer vigtige opgaver, lindrer smerter, og skaber gevinster som betyder noget for kunderne. Match er svære at finde og vedligeholde. Stræben efter match er hele formålet med designet af Value Propositions. Kunderne er dem der dømmer ens Value Proposition. </p>
+      </div>
+    </div>
+  </div>
+</div>
+        
+                
+        
+        
         
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

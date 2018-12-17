@@ -12,10 +12,21 @@
             <?php include 'header.php';?>
         </div>
         <h1>Tekstproduktion</h1>
-        <p>Når man skriver en tekst er det vigtig man har fokus på målgruppen, og den rette strategi man skal bruge. Ikke alle tekster kan bruges universalt. Der er nogle journalistiske grundbegreber der er vigtige at kunne:</p>
+        <p>Når man skriver en tekst er det vigtig man har fokus på målgruppen, og den rette strategi man skal bruge. Ikke alle tekster kan bruges universalt.</p>
         
-        <h2>Nyhedskriterier</h2>
-            <h3>De fem nyhedskriterier:</h3>
+    <div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+           <h2>Nyhedskriterier</h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        <h3>De fem nyhedskriterier:</h3>
                 <ol>
                     <li>Væsentlighed: er der tale om en væsentlig nyhed?</li>
                     <li>Sensation: Er det sensationelt?</li>
@@ -57,11 +68,35 @@
             <p>Byline: Beskriver hvem der har taget billedet, eller skrevet teksten.</p>
             <p>Kolofon: Det er mediets oplysninger om sig selv, typisk i en spalte om den ansvarshavende, samt adresse og telefonnr.</p>
             <p>Vinkling: Hvad en tekst handler om, hvilket perspektiv man skal ’høre’ den fra. Hvad er formålet med teksten, hvis parti skal man tage, hvem er helten og hvem er skurken. </p>
-        
-        <h2>Artikel</h2>
+      </div>
+    </div>
+  </div>    
+       
+        <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h2>Artikel</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
         <p>En kortere, selvstændig behandling af et emne, som typisk står i en avis eller et nyhedssite online. Teksten i en artikel kan b.la. være fagligt, nyhedspræget, eller skrevet fra en personlig vinkel. Uanset hvilken form, går en artikel ud på at skabe interesse, ved hjælp af et hurtigt overblik over noget bestemt indhold. Man vil typisk ikke læse hele artiklen, men kun det mest vigtige.</p>
+      </div>
+    </div>
+  </div>      
         
-        <h2>Brochure</h2>
+        <div class="card">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <h2>Brochure</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
         <p>Det er ekstremt vigtigt at strukturere indholdet i en brochure grundigt, med rigtig mange overvejelser omkring typografi og billeder. Elementerne skal arbejde sammen for at fremstå troværdigt i forhold til ens budskab. Her er et eksempel på hvordan man kan opbygge sin brochure fra bogen ’Kommunikation i multimediedesign’, kapitel 17 tekstproduktion. De fokuserer på en lampeforretning. </p>
             <ul>
                 <li>Overordnede formål(Vinkel): Det er et salgsbaseret formål. Vi sælger lamper</li>
@@ -75,8 +110,20 @@
                 <li>Bagsiden (side4): Her skal der være kontaktinfo på butikken, webshop og servicemuligheder (telefonnummer og information om chat-service)</li>
             </ul>
         <p>Kort sagt, så er hele pointen at man først definerer strategi, målgruppe, informationsarkitektur m.m. også skriver man tekstens dele med mediet og målgruppen i tankerne. Dernæst sættes teksten op typografisk sammen med de grafiske dele. Man skal være opmærksom på at kort er godt i forhold til tekster til brochurer, så man skal ikke skrive for meget. </p>
+      </div>
+    </div>
+  </div>  
         
-        <h2>Annonce</h2>
+    <div class="card">
+    <div class="card-header" id="headingFour">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          <h2>Annonce</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
         <p>Annoncer skal tale hurtigt og præcist til ens målgruppe. Annoncens overskrift skal være kort og fangende, motiv, billeder eller grafik skal fungere enten som en bekræftelse af overskriften, eller komme med en ironisk kommentar til den. </p>
         <p>Brødteksten skal være kort og klar, hvor man skal koge ens budskab ned til det mest basale. Logoet er ofte fulgt af et slogan, eller et payoff. Pligtteksten er til væsentlige forbehold, som eksempelvis begrænsninger i et tilbud, copyright info osv. Man kan benytte sig af AIDA-modellen som ser sådan ud:</p>
         <img src="billeder/kommunikation/Aida.png" alt="Aida modellen">
@@ -98,8 +145,20 @@
         
             <h3>OSP(Organizational Selling Proposition</h3>
             <p>Går på brands som er værdifulde i sig selv på grund af deres styrke på markedet.</p>
+      </div>
+    </div>
+  </div>    
         
-        <h2>Tekster til Web</h2>
+     <div class="card">
+    <div class="card-header" id="headingFive">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          <h2>Tekster til Web</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+      <div class="card-body">
         <p>At skrive tekster til web er et kapløb om læserens opmærksomhed. Derfor mener mange at det er bedre at navigere med billeder, men Jakob Nielsen, en anerkendt forsker i brugervenlighed på nettet har bevist gang på gang at tekstlinks er den bedste måde for brugere at navigere rundt på et site. </p>
         
             <h3>Korttekst</h3>
@@ -118,8 +177,20 @@
                         <li>Krav: Hvilke informationskrav stiller brugerne til sitet? </li>
                     </ul>
             </ul>
+      </div>
+    </div>
+  </div>   
         
-        <h2>Sociale medier</h2>
+       <div class="card">
+    <div class="card-header" id="headingSix">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+          <h2>Sociale medier</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
+      <div class="card-body">
         <p>Hvis man skal styre en organisations facebook profil, er det vigtigt man ikke skriver som var det ens egen. Man skal agere som brandet, og derfor være under nogen retningslinjer. </p>
         <p>Man kan bruge tekststrategien Försters temperamentale rose, som er inddelt i farvegrupperne:</p>
             <ul>
@@ -130,6 +201,10 @@
             </ul>
         
         <p>Ved at bruge farvestrategien kan man eksempelvis briefe et hold af mennesker der skal være community management eller online support. Briefet kunne være at en leder siger at man skal være opmærksom på at folk kan reagere negativt i en periode, og at man derfor skal bruge den blå tilgang. </p>
+      </div>
+    </div>
+  </div>   
+</div>
         
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

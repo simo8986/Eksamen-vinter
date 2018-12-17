@@ -14,9 +14,20 @@
             <h1>Fotografering</h1>
             <p>Vi fik meget frie tøjler til at benytte os af kamera, hvor vi forinden fik en gennemgang af de forskellige egenskaber kameraet havde. </p>
             <p>Jeg blev personligt meget inspireret den dag, og valgte efterfølgende at investere i et Canon 70d kamera. </p>
-            
-            <h2>Grundlæggende</h2>
-                <h3>RAW</h3>
+        
+        <div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h2>Grundlæggende</h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+         <h3>RAW</h3>
                 <p>RAW er det filformat man skal bruge, da det er direkte hvad kameraets sensor opfatter, uden noget bearbejdning. JPEG er et komprimeret format, behandlet af kameraet. Når man skal efterbehandle et billede i eksempelvis Lightroom, så bruger man altid RAW, da det giver en det bedst mulige udgangspunkt.</p>
             
                 <h3>Lukkertid/Shutter Speed</h3>
@@ -36,17 +47,33 @@
                         <li>En kombination af ISO, blænde og lukkertid</li>
                         <li>Er afhængelig af ønsket resultat, tilstedeværende og medbragt lys og evt. bevægelse</li>
                     </ul>
+      </div>
+    </div>
+  </div>
             
-            <h2>Kameraets programmer</h2>
-                <h3>M(Manuel)</h3>
-                    <p>Manuel indstilling af både blænde og lukkertid.</p>
-                <h3>TV(Tidsforvalg)</h3>
-                    <p>Man indstiller lukkertid og kameraet beregner selv blænde.</p>
-                <h3>AV(Blændeforvalg)</h3>
-                    <p>Man indstiller selv blænde og kameraet beregner lukkertid. </p>
-                <h3>Øvrige programmer</h3>
-                    <p>Kameraet har forskellige ’shooting modes’ hvor programmet er optimeret til forskellige bestemte type billeder. Man har ikke selv kontrol over noget. </p>
-        
+        <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h2>Kameraets programmer</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        <h3>M(Manuel)</h3>
+                <p>Manuel indstilling af både blænde og lukkertid.</p>
+        <h3>TV(Tidsforvalg)</h3>
+                <p>Man indstiller lukkertid og kameraet beregner selv blænde.</p>
+        <h3>AV(Blændeforvalg)</h3>
+                <p>Man indstiller selv blænde og kameraet beregner lukkertid. </p>
+        <h3>Øvrige programmer</h3>
+                <p>Kameraet har forskellige ’shooting modes’ hvor programmet er optimeret til forskellige bestemte type billeder. Man har ikke selv kontrol over noget. </p>
+      </div>
+    </div>
+  </div>
+</div>
+
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>

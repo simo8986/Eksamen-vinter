@@ -15,8 +15,19 @@
         <p>Gestaltlove handler om at se helheder.</p>
         <img src="billeder/design/gestalt.jpg" alt="Gestalt love">
         
-        <h2>Forskellige gestaltlove</h2>
-            <h3>Proximity</h3>
+   <div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h2>Forskellige gestaltlove</h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
+        <h3>Proximity</h3>
                 <p>Objekter som er tætte opfattes som at være relaterede i højere grad end objekter der er sat langt fra hinanden. Nærhed ’trumfer’ lighed i b.la. farver og kontrast.</p>
             <h3>Continuity</h3>
                 <p>Objekter arrangeret på linje, eller kurver opfattes som relaterede i højere grad end hvis de ikke er. Eksempelvis paragraffer, grafer (både horisontale og vertikale) kommunikerer relation.</p>
@@ -38,6 +49,10 @@
                 <p>Symmetriske elementer ses som at være i samme gruppe. Hvis man deler en cirkel i halv, og der er to meget forskellige billeder, og teksturer på hver side, vil man stadig se det som at være en helhed da det er symetrisk.</p>
             <h3>Flere gestaltlove</h3>
                 <p>Golden Section, Closure, Commen Region osv.</p>
+      </div>
+    </div>
+  </div>     
+</div> 
         
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

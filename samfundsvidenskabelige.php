@@ -33,21 +33,66 @@
             <li>Handlingsanvisende</li>
             <li>Modtageren ses som passiv</li>
         </ul>
-        
-        <h2>Kanyleteorien</h2>
+     <div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+          <h2>Kanyleteorien</h2>
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
         <img src="billeder/kommunikation/kanyle.png" alt="Kanyleteorien">
         <p>1927 af Harold D. Lasswell, Amerikansk politolog og kommunikationsteorietiker. </p>
         <p>Baseret på at man kan sprøjte idéer, tanker og holdninger ind i modtagere via propaganda, og på den måde styre samfundet. Bygger på at det er medierne der påvirker mennesker. Spiller vi fx voldelige spil, bliver vi voldelige. </p>
+      </div>
+    </div>
+  </div>   
         
-        <h2>S-R modellen</h2>
+      <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h2>S-R modellen</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
         <img src="billeder/kommunikation/s-r.jpg" alt="S-R modellen">
         <p>Har samme antagelse som kanyleteorien, om at mennesket kan styres via påvirkning. ’S’ betyder stimulus, og ’R’ betyder respons, og betyder at efter man har givet et budskab, kommer der en respons. Jo kraftigere budskab, jo større respons. Bruges også i dag, i reklamer der kører gentagende gange og som de samme modtagere eksponeres for igen og igen (’shouting’ advertising)</p>
+      </div>
+    </div>
+  </div>    
         
-        <h2>S-O-R modellen</h2>
+       <div class="card">
+    <div class="card-header" id="headingThree">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+          <h2>S-O-R modellen</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+      <div class="card-body">
         <img src="billeder/kommunikation/s-o-r.jpg" alt="S-O-R modellen">
         <p>Denne model tænker at kommunikation kanaliseres gennem en organisme, og ikke overføres direkte. Mennesker bliver ikke set som at være ens, og derfor vil respons ikke være ens fra alle modtagere. Modellen antager at der skal tages forskellige hensyn til forskellige grupper. Hvilke hensyn det er, baseres på forskellige typer målgruppeanalyser. Hvordan ’Organisme’ defineres er det springende punkt for modellens anvendelighed. </p>
-        
-        <h2>Lasswells formel</h2>
+      </div>
+    </div>
+  </div>
+       <div class="card">
+    <div class="card-header" id="headingFour">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+          <h2>Lasswells formel</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+      <div class="card-body">
         <img src="billeder/kommunikation/Laswell.png" alt="Lasswells model">
         <p>Harold Lasswell citeres ofte med en berømt replik fra 1945;
             <q>”En bekvem måde at skrive en kommunikationshandling på er at besvare følgende spørgsmål:
@@ -59,10 +104,25 @@
                 <li>Med hvilken effekt?</li>
             </ul></q>
          Formlen er en funktionalistisk strukturmodel, som medtænker mediet. Fokus er stadig på afsender, selvom man også har et øje på modtager. Interessen for modtager er dog begrænset til at modtager skal udpeges, og at effekten skal registreres.</p>
-        
-        <h2>Kotlers model for markedskommunikation</h2>
+      </div>
+    </div>
+  </div>
+     <div class="card">
+    <div class="card-header" id="headingFive">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+          <h2>Kotlers model for markedskommunikation</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
+      <div class="card-body">
         <img src="billeder/kommunikation/kotlersmodel.png" alt="Kotlers model for markedskommunikation">
         <p>Den viser hvordan en afsender sender et budskab ud, som er kodet på en måde hvor modtager skal kunne forstå samme ’sprog’ for at afkode den. Modtageren reagerer på budskabet og giver respons til afsenderen. Alt der påvirker kommunikationen ses som støj. Både teknologisk og forståelsesmæssigt. Så både støj på telefonlinjen, og forståelsesmæssige problemer.</p>
+      </div>
+    </div>
+  </div>
+</div>
         
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

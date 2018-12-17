@@ -29,8 +29,18 @@
             <li>Mennesket ses som aktivt</li>
         </ul>
         <p>Generelt set ligestiller paradigmet afsender og modtager, og lægger fokus på kommunikationssituationen. Der skal en modtager til at fortolke en tekst, ellers eksisterer den ikke i kommunikativ forstand. </p>
-        <div class="collapsable">
+        
+<div class="accordion" id="accordionExample">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
             <h2>IMK modellen</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+      <div class="card-body">
             <p>IMK-Modellen (Frandsen m.fl. 1997) Står for International Markeds Kommunikation. Den sætter selve ’tekst’ i centrum. ’Tekst’ skal forstås i et bredere spektrum, da den også indeholder alle kommunikationens enkeltdele, det vil sige også billeder, grafik osv. </p>
             <img src="billeder/kommunikation/IMK.png" alt="IMK Modellen">
             <p>Modellen bygger på, at kontekst/kultur, medier og genre er med til at forme teksten.
@@ -60,10 +70,20 @@
             
             <h3>Genre</h3>
             <p>Bruges til at udpege hvordan kultur/kontekst, medier og retoriske strategier kan arbejde sammen. Det kommunikative formål ses fra båder modtager og afsender siden.  Trækstruturer skal forstås som de sproglige træk som er med til at en tekst kommunikative formål. Retoriske strategier, anvendes for at trækkene står tydelige. Det kan være anvendelse af fagbegreber, slogans ordspil osv. </p>
-        </div>
-        <div class="collapsable">
-            <h2>Thorlacius’ kommunikationsmodel</h2>
-            <p>Skrevet af Lisbeth Thorlacius, som bygger videre på Roman Jakobsons lingvistiske kommunikationsmodel.
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <div class="card-header" id="headingTwo">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+          <h2>Thorlacius' kommunikationsmodel</h2>
+        </button>
+      </h5>
+    </div>
+    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+      <div class="card-body">
+        <p>Skrevet af Lisbeth Thorlacius, som bygger videre på Roman Jakobsons lingvistiske kommunikationsmodel.
             Modellen anvendes både i analyse- og produktionssammenhæng, og ’bygger bro’ mellem forskellige fagområder og discipliner der skal til for at skabe et nyt website i et produktionsteam. 
             Tanken bag er at lave et samlet redskab der forklare de visuelle og funktionelle elementer i webkommunikation. </p>
             
@@ -92,8 +112,9 @@
             
             <h3>Koden</h3>
             <p>Det er ikke selve koden på en hjemmeside, men selve det system, som gør at vi giver et website en bestemt betydning. For at modtager og afsender kan forstå hinanden er de vigtigt at de kan samme kode. Koden kan eksempelvis være sproget. En kineser får ikke ret meget ud af en hjemmeside på dansk. Der er to funktioner; Den metakommunikative funktion er når man visuelt eller sprogligt træder ud af situationen og taler om sig selv. Den intersemiotiske funktion er når man trækker på et kodesystem for at forklare et andet kodesystem. For eksempel når man bruger metaforer. </p>
-        </div>
-        
+      </div>
+    </div>
+  </div>  
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
