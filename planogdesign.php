@@ -2,7 +2,9 @@
 <html lang="da">
 	<head>
 		<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Planlægning og overordnet design</title>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
@@ -26,5 +28,10 @@
                 <p>Mockups er mere detaljerede end wireframes, og er er ofte lavet i photoshop. Det er hjemmesidens udseende defineret 100%, og er ofte det man viser til kunden. Dog er det altid bedst at kode et mockup i html/css da det giver noget for brugeren at interagere med.</p>
             <h3>Prototype</h3>
                 <p>En prototype er en virkende version af hjemmesiden. Uden meget fokus på design i starten, men mere funktionalitet. Det er altid en god ide at have en prototype, da det giver en mulighed for hurtigt at se hvad der virker og ikke gør. Godt nok kan man være nødt til at smide det hele væk nogle gange, men så er man blevet klogere på hvad man ikke skal gøre. </p>
+        
+        <!--- Javascript --->
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 	</body>
 </html>
