@@ -168,4 +168,8 @@ li a:hover, p a:hover {
     li {
     font-size: 30px;
     }
+    
+    .indhold {
+        padding: 5px;
+    }
 }
