@@ -17,11 +17,6 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.menu {
-    grid-area: nav;
-    height: 30%;
-}
-
 .indhold {
     grid-area: indhold;
 }
@@ -41,7 +36,8 @@ img {
     align-self: center;
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
+    border: 1px solid #435757;
 }
 
 .btn-link {
@@ -171,5 +167,62 @@ li a:hover, p a:hover {
     
     .indhold {
         padding: 5px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    
+    #grid {
+        grid-template-columns: 1fr;
+        grid-template-areas:
+        "indhold"
+    }
+    p {
+        font-size: 15px;
+    }
+    
+    li {
+    font-size: 15px;
+    }
+    
+    body {
+        padding-top: 2%;
+            
+    }
+    
+    h1 {
+        font-size: 50px;
+    }
+    
+    h2 {
+        font-size: 40px;
+    }
+    
+    h3 {
+        font-size: 30px;
+    }
+    
+    .dropdown-item {
+        font-size: 18px;
+    }
+    
+    .navbar-brand, .nav-link, #navbarDropdownMenuLink {
+        font-size: 20px;
+    }
+
+    .navbar {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    
+    .navbar-expand-lg .navbar-nav {
+        margin: auto;
+        width: 50%;
+    }
+    
+    .indhold {
+        margin-left: 10%;
+        margin-right: 10%;
+        width: 80%
     }
 }
