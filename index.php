@@ -16,8 +16,8 @@
         <h1>Forside</h1>
             <p>Denne hjemmeside er lavet i samarbejde mellem mig (Simone) og katten (Zelda).</p>
             <p>Siden er dedikeret til katten, da jeg kunne have lavet den 60% hurtigere hvis hun ville rykke sig fra mine bøger. <br>
-            Men hun er kær, så jeg må leve med det. 
-            (INDSÆT BILLEDER AF MIG OG ZELDA) </p>
+            Men hun er kær, så jeg må leve med det. </p>
+           <img src="billeder/zelda.jpg" alt="Zelda">
         
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

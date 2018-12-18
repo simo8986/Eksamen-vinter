@@ -14,10 +14,10 @@
         </div>
        <div class="indhold">
         <h1>Design Thinking</h1>
-        <p>Design thinking er en bestemt måde at tænke på, det er en metode, men det er også et bestemt mind set. Design thinking handler om at styre processen bag en ide. Man arbejder med at holde sig i et stadie af nysgerrighed, hvor man skal arbejde på at forstå problemet før man tænker på løsninger. </p>
-        <p>Det er en måde at arbejde med User Centered Design(UCD), da man inddrager faktiske brugere. Det er en måde at nå frem til den bedste løsning der reelt løser problemstillingen. </p>
-        <p>Der er 5 faser i Design Thinking: Empathize, Define, Ideate, Prototype, og Test. I nogen modeller er der også en 6 der hedder Implement. Det er ikke en lineær proces, da man altid kan hoppe et trin tilbage. </p>
-        <p>Man tænker i divergente og konvergente baner. Når man tænker divergent tænker man kreativt, eksempelvis i en brainstorm. Når man så tænker konvergent, så sortere man fra. Man indskrænker. </p>
+        <p>Design thinking er en bestemt måde at tænke på, det er en metode, men det er også et bestemt mind set.<br>Design thinking handler om at styre processen bag en ide.<br>Man arbejder med at holde sig i et stadie af nysgerrighed, hvor man skal arbejde på at forstå problemet før man tænker på løsninger. </p>
+        <p>Det er en måde at arbejde med User Centered Design(UCD), da man inddrager faktiske brugere.<br>Det er en måde at nå frem til den bedste løsning der reelt løser problemstillingen. </p>
+        <p>Der er 5 faser i Design Thinking: Empathize, Define, Ideate, Prototype, og Test. <br>I nogen modeller er der også en 6 der hedder Implement.<br>Det er ikke en lineær proces, da man altid kan hoppe et trin tilbage. </p>
+        <p>Man tænker i divergente og konvergente baner.<br>Når man tænker divergent tænker man kreativt, eksempelvis i en brainstorm.<br>Når man så tænker konvergent, så sortere man fra. Man indskrænker. </p>
         <img src="billeder/kommunikation/design-thinking.png" alt="Design Thinking faser">
         
         <div class="accordion" id="accordionExample">
@@ -33,7 +33,7 @@
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
         <h3>Fase 1: Empathize</h3>
-            <p>I empathize fasen sætter man sig i brugerens sted, og sætter sine egne antagelser til side. Man skal forsøge at forstå problemet. Det kan man gøre b.la. med disse metoder:</p>
+            <p>I empathize fasen sætter man sig i brugerens sted, og sætter sine egne antagelser til side.<br>Man skal forsøge at forstå problemet. Det kan man gøre b.la. med disse metoder:</p>
                 <ul>
                     <li>Deltagerobservation</li>
                     <li>Interessentanalyse</li>
@@ -43,7 +43,7 @@
             <p>Og mange flere.</p>
         
             <h3>Fase 2: Define</h3>
-            <p>I define fasen samler man alt sin information fra empathize fasen, også analysere man det. Man definerer de vigtigste problemer. Man kan bruge følgende metoder:</p>
+            <p>I define fasen samler man alt sin information fra empathize fasen, også analysere man det.<br>Man definerer de vigtigste problemer. Man kan bruge følgende metoder:</p>
                 <ul>
                     <li>Brugerrejse</li>
                     <li>Kategorisering af data</li>
@@ -52,7 +52,7 @@
             <p>Og flere.</p>
         
             <h3>Fase 3: Ideate</h3>
-            <p>I fase 3 må man endelig begynde at komme med idéer til løsninger. Det er ofte meget svært ikke at begynde at tænke i idéer allerede fra første fase, men der er altså først nu man skal gøre det. Man kan evt. bruge følgende metoder:</p>
+            <p>I fase 3 må man endelig begynde at komme med idéer til løsninger.<br>Det er ofte meget svært ikke at begynde at tænke i idéer allerede fra første fase, men der er altså først nu man skal gøre det.<br>Man kan evt. bruge følgende metoder:</p>
                 <ul>
                     <li>Megatrends</li>
                     <li>Brainstorm</li>
@@ -61,7 +61,7 @@
                 </ul>
             
             <h3>Fase 4: Prototype</h3>
-            <p>I fase 4 laver man en prototype så man kan undersøge om man er på rette spor. Man kan bruge disse metoder:</p>
+            <p>I fase 4 laver man en prototype så man kan undersøge om man er på rette spor.<br>Man kan bruge disse metoder:</p>
                 <ul>
                     <li>Brugerrejse</li>
                     <li>Changeboards</li>
@@ -69,7 +69,7 @@
                 </ul>
         
             <h3>Fase 5: Test</h3>
-            <p>I test fasen skal man grundigt teste sit produkt. Det er godt nok sidste fase, men det er noget der som regel sætter en nogle faser tilbage, da man finder flere problemer. Man kan teste med:</p>
+            <p>I test fasen skal man grundigt teste sit produkt.<br>Det er godt nok sidste fase, men det er noget der som regel sætter en nogle faser tilbage, da man finder flere problemer.<br>Man kan teste med:</p>
                 <ul>
                     <li>Kvalitativt interview</li>
                     <li>Deltagerobservation</li>

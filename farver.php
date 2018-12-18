@@ -14,8 +14,10 @@
         </div>
        <div class="indhold">
         <h1>Farver</h1>
-        <p>Isaac Newton viste i 1600-tallet lysets brydning igennem et prisme. Ved hjælp af hans eksperimenter konkluderede han at blå, gul og rød er de primære farver, da de ikke kan blandes ud af andre farver. </p>
+        <p>Isaac Newton viste i 1600-tallet lysets brydning igennem et prisme.<br>Ved hjælp af hans eksperimenter konkluderede han at blå, gul og rød er de primære farver, da de ikke kan blandes ud af andre farver. </p>
+           <img src="billeder/design/newton.jpg" alt="Isaac Newton">
         <p>Det er værd at nævne at et farvesystem ikke er absolut, men bygger på flere teoretiske opfattelser, og kan være forskellige fra kultur til kultur. </p>
+           <img src="billeder/design/prism.jpg" alt="Prisme">
       <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">
@@ -49,6 +51,7 @@
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
+          <img src="billeder/design/farverum.png" alt="Farverum">
         <h3>RGB/Red Green Blue</h3>
                 <p>Additivt farvesystem, lys tilføjes. Benyttes på computer og tv-skærme.</p>
             <h3>CMYK/Cyan Magenta Yellow Key(Black)</h3>
@@ -74,6 +77,7 @@
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
         <h3>Monokrom</h3>
+          <img src="billeder/design/farvecombination.jpg" alt="Farvesammensætning">
                 <p>Én kulør som justeres i forhold til lyshed og mætning. Den går nærmest fra hvid til sort i nuancer af samme farve.</p>
             <h3>Analog</h3>
                 <p>Én kulør indenfor et bredere spektrum af lyshed og mætning.</p>

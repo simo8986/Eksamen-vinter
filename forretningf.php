@@ -28,7 +28,7 @@
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-        <p>En forretningsmodel beskriver rationalet bag, hvordan en organisation skaber, leverer og fastholder værdi. Det er et strategisk ledelsesværktøj, som kan anvendes til; Den strategiske analyse og den strategisk planlægning. Kort sagt bruges det til at finde ud af hvem virksomhedens kunder er, hvilken værdi de tilbyder kunden, og igennem hvilke kanaler relationen til kunden skabes. </p>
+        <p>En forretningsmodel beskriver rationalet bag, hvordan en organisation skaber, leverer og fastholder værdi.<br>Det er et strategisk ledelsesværktøj, som kan anvendes til;<br>Den strategiske analyse og den strategisk planlægning.<br>Kort sagt bruges det til at finde ud af hvem virksomhedens kunder er, hvilken værdi de tilbyder kunden, og igennem hvilke kanaler relationen til kunden skabes. </p>
             <p>Den viser også hvilke aktiviteter, ressourcer og samarbejdspartnere der er behov for, og hvilke udgifter og indtægter der skal til.</p>
             <p>Det handler om at kende sig selv:</p>
                 <ul>
@@ -197,7 +197,7 @@
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Value proposition har to sider. Med kundeprofilen kan man kortlægge sin kundeforståelse. Med værdikortet beskriver man hvordan man har tænkt sig at skabe værdi for netop den kunde. Det handler altså om at lave et match.</p>
+        <p>Value proposition har to sider. Med kundeprofilen kan man kortlægge sin kundeforståelse.<br>Med værdikortet beskriver man hvordan man har tænkt sig at skabe værdi for netop den kunde.<br>Det handler altså om at lave et match.</p>
         <img src="billeder/kommunikation/vpc.png" alt="Value Proposition Design">
         
             <h3>Kundeprofil</h3>

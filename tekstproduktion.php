@@ -84,7 +84,7 @@
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-        <p>En kortere, selvstændig behandling af et emne, som typisk står i en avis eller et nyhedssite online. Teksten i en artikel kan b.la. være fagligt, nyhedspræget, eller skrevet fra en personlig vinkel. Uanset hvilken form, går en artikel ud på at skabe interesse, ved hjælp af et hurtigt overblik over noget bestemt indhold. Man vil typisk ikke læse hele artiklen, men kun det mest vigtige.</p>
+        <p>En kortere, selvstændig behandling af et emne, som typisk står i en avis eller et nyhedssite online.<br>Teksten i en artikel kan b.la. være fagligt, nyhedspræget, eller skrevet fra en personlig vinkel.<br>Uanset hvilken form, går en artikel ud på at skabe interesse, ved hjælp af et hurtigt overblik over noget bestemt indhold.<br>Man vil typisk ikke læse hele artiklen, men kun det mest vigtige.</p>
       </div>
     </div>
   </div>      
@@ -99,7 +99,7 @@
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Det er ekstremt vigtigt at strukturere indholdet i en brochure grundigt, med rigtig mange overvejelser omkring typografi og billeder. Elementerne skal arbejde sammen for at fremstå troværdigt i forhold til ens budskab. Her er et eksempel på hvordan man kan opbygge sin brochure fra bogen ’Kommunikation i multimediedesign’, kapitel 17 tekstproduktion. De fokuserer på en lampeforretning. </p>
+        <p>Det er ekstremt vigtigt at strukturere indholdet i en brochure grundigt, med rigtig mange overvejelser omkring typografi og billeder.<br>Elementerne skal arbejde sammen for at fremstå troværdigt i forhold til ens budskab.<br>Her er et eksempel på hvordan man kan opbygge sin brochure fra bogen ’Kommunikation i multimediedesign’, kapitel 17 tekstproduktion.<br>De fokuserer på en lampeforretning. </p>
             <ul>
                 <li>Overordnede formål(Vinkel): Det er et salgsbaseret formål. Vi sælger lamper</li>
                 <li>Målgruppe: Det er højere middelklasse og opefter, folk med penge og stil.</li>
@@ -111,7 +111,7 @@
                 <li>Siderne 2 og 3: Når man åbner brochuren skal der være billeder med produkterne samt gode tekster, der ikke kun informere om pris og materialer, men også appellere følelsesmæssigt til kunderne.</li>
                 <li>Bagsiden (side4): Her skal der være kontaktinfo på butikken, webshop og servicemuligheder (telefonnummer og information om chat-service)</li>
             </ul>
-        <p>Kort sagt, så er hele pointen at man først definerer strategi, målgruppe, informationsarkitektur m.m. også skriver man tekstens dele med mediet og målgruppen i tankerne. Dernæst sættes teksten op typografisk sammen med de grafiske dele. Man skal være opmærksom på at kort er godt i forhold til tekster til brochurer, så man skal ikke skrive for meget. </p>
+        <p>Kort sagt, så er hele pointen at man først definerer strategi, målgruppe, informationsarkitektur m.m. også skriver man tekstens dele med mediet og målgruppen i tankerne.<br>Dernæst sættes teksten op typografisk sammen med de grafiske dele.<br>Man skal være opmærksom på at kort er godt i forhold til tekster til brochurer, så man skal ikke skrive for meget. </p>
       </div>
     </div>
   </div>  
@@ -126,24 +126,24 @@
     </div>
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Annoncer skal tale hurtigt og præcist til ens målgruppe. Annoncens overskrift skal være kort og fangende, motiv, billeder eller grafik skal fungere enten som en bekræftelse af overskriften, eller komme med en ironisk kommentar til den. </p>
-        <p>Brødteksten skal være kort og klar, hvor man skal koge ens budskab ned til det mest basale. Logoet er ofte fulgt af et slogan, eller et payoff. Pligtteksten er til væsentlige forbehold, som eksempelvis begrænsninger i et tilbud, copyright info osv. Man kan benytte sig af AIDA-modellen som ser sådan ud:</p>
+        <p>Annoncer skal tale hurtigt og præcist til ens målgruppe.<br>Annoncens overskrift skal være kort og fangende, motiv, billeder eller grafik skal fungere enten som en bekræftelse af overskriften, eller komme med en ironisk kommentar til den. </p>
+        <p>Brødteksten skal være kort og klar, hvor man skal koge ens budskab ned til det mest basale.<br>Logoet er ofte fulgt af et slogan, eller et payoff.<br>Pligtteksten er til væsentlige forbehold, som eksempelvis begrænsninger i et tilbud, copyright info osv.<br>Man kan benytte sig af AIDA-modellen som ser sådan ud:</p>
         <img src="billeder/kommunikation/Aida.png" alt="Aida modellen">
         <p>Først skal der skabes opmærksomhed omkring ens budskab, som man ofte bruger billeder, eller overskriften til. </p>
-        <p>Hvis budskabet vækker interesse, så kan det føre til et ønske om at eje produktet. Det sidste punkt er så selve købet af produktet, eller man får folk til at føle budskabet med annoncen. </p>
+        <p>Hvis budskabet vækker interesse, så kan det føre til et ønske om at eje produktet.<br>Det sidste punkt er så selve købet af produktet, eller man får folk til at føle budskabet med annoncen. </p>
         
         <p>Følgende strategier og eksempler fra bogen ’Kommunikation i Multimediedesign’:</p>
             <h3>USP(Unique Selling Proposition)</h3>
-            <p>Går på tilbud her og nu eller på unikke elementer såsom kvalitet, udbud, sted osv. Kunne være ’Køb sommerferierejsen inden jul og spar 50%’ </p>
+            <p>Går på tilbud her og nu eller på unikke elementer såsom kvalitet, udbud, sted osv.<br>Kunne være ’Køb sommerferierejsen inden jul og spar 50%’ </p>
         
             <h3>ESP(Emotional Selling Proposition</h3>
-            <p>Går på følelser, både rare og alvorlige. Det kunne være ’Lily vil gerne gå i skole, men hun skal hjælpe sin mor. Støt børns skolegang i Sudan’</p>
+            <p>Går på følelser, både rare og alvorlige.<br>Det kunne være ’Lily vil gerne gå i skole, men hun skal hjælpe sin mor. Støt børns skolegang i Sudan’</p>
         
             <h3>ISP(Ironic Selling Proposition</h3>
-            <p>Går på ironi og sort humor. Det kan være ’Globale klimaændringer kommer naturligvis ikke til at påvirke dig, kun de andre!’ Man skal være forsigtig med den strategi, og man skal kende sin målgruppe.</p>
+            <p>Går på ironi og sort humor.<br>Det kan være ’Globale klimaændringer kommer naturligvis ikke til at påvirke dig, kun de andre!’<br>Man skal være forsigtig med den strategi, og man skal kende sin målgruppe.</p>
         
             <h3>BSP(Brand Selling Proposition)</h3>
-            <p>Går på at et brand er større end produktet. Som når Harry Potter kommer på penalhuse og madkasser. </p>
+            <p>Går på at et brand er større end produktet.<br>Som når Harry Potter kommer på penalhuse og madkasser. </p>
         
             <h3>OSP(Organizational Selling Proposition</h3>
             <p>Går på brands som er værdifulde i sig selv på grund af deres styrke på markedet.</p>
@@ -161,13 +161,13 @@
     </div>
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
       <div class="card-body">
-        <p>At skrive tekster til web er et kapløb om læserens opmærksomhed. Derfor mener mange at det er bedre at navigere med billeder, men Jakob Nielsen, en anerkendt forsker i brugervenlighed på nettet har bevist gang på gang at tekstlinks er den bedste måde for brugere at navigere rundt på et site. </p>
+        <p>At skrive tekster til web er et kapløb om læserens opmærksomhed.<br>Derfor mener mange at det er bedre at navigere med billeder, men Jakob Nielsen, en anerkendt forsker i brugervenlighed på nettet har bevist gang på gang at tekstlinks er den bedste måde for brugere at navigere rundt på et site. </p>
         
             <h3>Korttekst</h3>
-            <p>En korttekst består af en titel/overskrift, som en appetitvækker og information. Evt. billeder, som giver visuel information, og et kort resumé i form af hvem og hvad. </p>
+            <p>En korttekst består af en titel/overskrift, som en appetitvækker og information.<br>Evt. billeder, som giver visuel information, og et kort resumé i form af hvem og hvad. </p>
         
             <h3>Heltekst</h3>
-        <p>Når man klikker på en korttekst kommer man videre til en heltekst. Med en heltekst skal man aldrig gå ud fra at en bruger har læst noget udenfor teksten.</p>
+        <p>Når man klikker på en korttekst kommer man videre til en heltekst.<br>Med en heltekst skal man aldrig gå ud fra at en bruger har læst noget udenfor teksten.</p>
         <p>Her er nogle gode råd at følge:</p>
             <ul>
                 <li>Links i tekster: Lav præcise links, ikke skriv ’Se mere her’</li>
@@ -193,7 +193,7 @@
     </div>
     <div id="collapseSix" class="collapse" aria-labelledby="headingSix" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Hvis man skal styre en organisations facebook profil, er det vigtigt man ikke skriver som var det ens egen. Man skal agere som brandet, og derfor være under nogen retningslinjer. </p>
+        <p>Hvis man skal styre en organisations facebook profil, er det vigtigt man ikke skriver som var det ens egen.<br>Man skal agere som brandet, og derfor være under nogen retningslinjer. </p>
         <p>Man kan bruge tekststrategien Försters temperamentale rose, som er inddelt i farvegrupperne:</p>
             <ul>
                 <li>Blå: er symbolsk for information og facts. Den fokuserer på præcision, som tal, datoer og information. </li>
@@ -202,7 +202,7 @@
                 <li>Rød: Er symbolsk for kontakt og følelser. Fokuserer på empati, sympati, følelser, åbenhed og varme. </li>
             </ul>
         
-        <p>Ved at bruge farvestrategien kan man eksempelvis briefe et hold af mennesker der skal være community management eller online support. Briefet kunne være at en leder siger at man skal være opmærksom på at folk kan reagere negativt i en periode, og at man derfor skal bruge den blå tilgang. </p>
+        <p>Ved at bruge farvestrategien kan man eksempelvis briefe et hold af mennesker der skal være community management eller online support.<br>Briefet kunne være at en leder siger at man skal være opmærksom på at folk kan reagere negativt i en periode, og at man derfor skal bruge den blå tilgang. </p>
       </div>
     </div>
   </div>   

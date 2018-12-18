@@ -26,7 +26,7 @@
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Fra d. 29. oktober til d. 2. november havde vi fået til opgave at udføre en design thinking proces på emnet ’Udlån og reservation’. Min gruppe som inkluderede Ida og Omar valgte igennem en brainstorming og sorteringsproces at fokusere på sportsklubber. </p>
+        <p>Fra d. 29. oktober til d. 2. november havde vi fået til opgave at udføre en design thinking proces på emnet ’Udlån og reservation’.<br>Min gruppe som inkluderede Ida og Omar valgte igennem en brainstorming og sorteringsproces at fokusere på sportsklubber. </p>
             <p>Vi ringede derfor til en Golfklub, Hockeyklub, Rideklub og Skydeklub og udførte et interview for at blive klog på om der var et problem ifølge af udlåning af udstyr. </p>
             <p>Vi designede en app til at holde styr på lånene og reservationerne i klubberne, så man altid var sikker på hvad der var hjemme, og ikke var. </p>
             <p>Det er en kort opsummering, da det bliver forklaret i dybere detaljer i følgende videoer, som er filmet mens vi arbejdede med det. </p>
@@ -48,9 +48,9 @@
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Vi skulle skrive 3 forskellige tekster, til 3 forskellige medier. En avisartikel, en webtekst og en social medietekst. Derefter skulle vi peer review hinandens tekster. Jeg skrev følgende: </p>
+        <p>Vi skulle skrive 3 forskellige tekster, til 3 forskellige medier.<br>En avisartikel, en webtekst og en social medietekst.<br>Derefter skulle vi peer review hinandens tekster. Jeg skrev følgende: 
             
-            <a href="filer/kommunikation/tekstproduktion.docx" download>Download tekstproduktion filen her</a>
+            <a href="filer/kommunikation/tekstproduktion.docx" download>Download tekstproduktion filen her</a></p>
       </div>
     </div>
   </div>       
@@ -65,7 +65,7 @@
     </div>
     <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
       <div class="card-body">
-        <p>I starten af semesteret skulle vi lave et mind map over vores opfattelse af kommunikation. Her er mit: </p>
+        <p>I starten af semesteret skulle vi lave et mind map over vores opfattelse af kommunikation.<br>Her er mit: </p>
             <img src="billeder/kommunikation/mindmap.png" alt="Kommunikation mind map">
       </div>
     </div>
@@ -82,7 +82,7 @@
     <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
       <div class="card-body">
         
-            <p>Vi skulle i en gruppe tegne et produktionsforløb, og hvornår under forløbet vi ville teste. Mig, René, Ida, Nikolas og Daniel tegnede følgende:</p>
+            <p>Vi skulle i en gruppe tegne et produktionsforløb, og hvornår under forløbet vi ville teste.<br>Mig, René, Ida, Nikolas og Daniel tegnede følgende:</p>
             <img src="billeder/kommunikation/brugertest.jpg" alt="Brugertest">
       </div>
     </div>

@@ -14,7 +14,7 @@
         </div>
        <div class="indhold">
         <h1>Informationsarkitektur</h1>
-        <p>Målet med informationsarkitektur er at få lagt site-mappet af en hjemmeside, altså det skelet hjemmesiden er bygget op efter. Det er med det formål at få lagt hjemmesidens indhold der hvor folk forventer det. Problemet her er at man forventer forskellige ting. Nogen vil for eksempel mene at dette punkt burde ligge under kommunikation, mens jeg føler det hører mere hjemme her under webudvikling. Men det er man ikke altid enige om. Med andre ord, det er en måde at sætte hjemmesidens navigation op på, så folk organisk kan komme hen til det de søger, uden at skulle lede længe. </p>
+        <p>Målet med informationsarkitektur er at få lagt site-mappet af en hjemmeside, altså det skelet hjemmesiden er bygget op efter.<br>Det er med det formål at få lagt hjemmesidens indhold der hvor folk forventer det. Problemet her er at man forventer forskellige ting.<br>Nogen vil for eksempel mene at dette punkt burde ligge under kommunikation, mens jeg føler det hører mere hjemme her under webudvikling.<br>Men det er man ikke altid enige om. Med andre ord, det er en måde at sætte hjemmesidens navigation op på, så folk organisk kan komme hen til det de søger, uden at skulle lede længe. </p>
         
         <div class="accordion" id="accordionExample">
   <div class="card">

@@ -26,8 +26,8 @@
 
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Vi havde gennemgang på tavlen, hvor vi selv skulle følge med på vores pc. Der lavede vi disse illustrationer </p>
-        <a href="filer/design/illustratoropgaver.pdf" download>Download illustrator opgaver filen her</a>
+        <p>Vi havde gennemgang på tavlen, hvor vi selv skulle følge med på vores pc. Der lavede vi disse illustrationer 
+        <a href="filer/design/illustratoropgaver.pdf" download>Download illustrator opgaver filen her</a></p>
       </div>
     </div>
   </div>
@@ -42,8 +42,8 @@
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Vi skulle gentage hvad der blev lavet på tavlen, og her lavede vi følgende</p>
-            <a href="filer/design/photoshop.pdf" download>Download photoshop opgaver filen her</a>
+        <p>Vi skulle gentage hvad der blev lavet på tavlen, og her lavede vi følgende
+            <a href="filer/design/photoshop.pdf" download>Download photoshop opgaver filen her</a></p>
       </div>
     </div>
   </div>
@@ -91,8 +91,8 @@
     </div>
     <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Efter et oplæg omkring gestaltlove skulle vi selv lave eksempler på dem, som til sidst kunne samles i et kompendie. Vi udviklede dette powerpoint og pdf dokument, med illustrationer lavet af gruppen.</p>
-            <a href="filer/design/Gestaltlove.pdf" download>Download gestaltlove kompendie filen her</a>
+        <p>Efter et oplæg omkring gestaltlove skulle vi selv lave eksempler på dem, som til sidst kunne samles i et kompendie. Vi udviklede dette powerpoint og pdf dokument, med illustrationer lavet af gruppen.
+            <a href="filer/design/Gestaltlove.pdf" download>Download gestaltlove kompendie filen her</a></p>
       </div>
     </div>
   </div>

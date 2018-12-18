@@ -14,7 +14,7 @@
         </div>
        <div class="indhold">
         <h1>Server</h1>
-        <p>Server er både hardware med en særlig rolle, og software med en særlig rolle. En server bruges via. en klient. Klienten er et program der kobler sig til serveren, og udveksler information med den. En webserver kommunikerer med en web-klient (browser)</p>
+        <p>Server er både hardware med en særlig rolle, og software med en særlig rolle.<br>En server bruges via. en klient. Klienten er et program der kobler sig til serveren, og udveksler information med den.<br>En webserver kommunikerer med en web-klient (browser)</p>
         
    <div class="accordion" id="accordionExample">
   <div class="card">
@@ -51,8 +51,8 @@
     </div>
     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
       <div class="card-body">
-        <p>Webserveren leverer HTML, CSS, javascript og billeder osv. til klienter (browsere). De nødvendige filer ligger på serveren. Serveren har en IP-adresse, IP-adressen kan være tilknyttet et domæne</p>
-            <p>En browser kan anvende IP-adresse eller et domæne. Domænenavnet oversættes i en DNS-server til den rigtige IP-adresse.</p>
+        <p>Webserveren leverer HTML, CSS, javascript og billeder osv. til klienter (browsere).<br>De nødvendige filer ligger på serveren.<br>Serveren har en IP-adresse, IP-adressen kan være tilknyttet et domæne</p>
+        <p>En browser kan anvende IP-adresse eller et domæne.<br>Domænenavnet oversættes i en DNS-server til den rigtige IP-adresse.</p>
       </div>
     </div>
   </div>    

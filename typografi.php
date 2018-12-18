@@ -59,9 +59,9 @@
         <img src="billeder/design/sansserif.png" alt="Serif og Sans Serif">
             <h3>Serif/Antikva</h3>
                 <p>Den har fået sit navn fra sine ’fødder’, altså den tynde linje som afslutter grundstregen på et bogstav eller et symbol. </p>
-                <p>Det benyttes ofte som brødtekst, da fødderne gør store mængde tekst lettere at læse. ’Fødderne’ danner en linje for øjnene at følge. Den bliver opfattet som gammeldags, og bruges mindre og mindre som brødtekst på hjemmesider, mere på print.</p>
+                <p>Det benyttes ofte som brødtekst, da fødderne gør store mængde tekst lettere at læse.<br>’Fødderne’ danner en linje for øjnene at følge.<br>Den bliver opfattet som gammeldags, og bruges mindre og mindre som brødtekst på hjemmesider, mere på print.</p>
             <h3>Sans Serif/Grotesk</h3>
-                <p>’Sans’ betyder uden på Fransk, så det er ’uden Serif’ – altså uden ’fødder’. Den benyttes ofte til overskrifter, da den moderne stil giver en god kontrast til en lettere læselig Serif. Den bliver dog brugt mere og mere til brødtekst på hjemmesider, fremfor Serif.</p>
+                <p>’Sans’ betyder uden på Fransk, så det er ’uden Serif’ – altså uden ’fødder’.<br>Den benyttes ofte til overskrifter, da den moderne stil giver en god kontrast til en lettere læselig Serif.<br>Den bliver dog brugt mere og mere til brødtekst på hjemmesider, fremfor Serif.</p>
       </div>
     </div>
   </div>

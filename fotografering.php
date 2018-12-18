@@ -30,7 +30,7 @@
     <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
       <div class="card-body">
          <h3>RAW</h3>
-                <p>RAW er det filformat man skal bruge, da det er direkte hvad kameraets sensor opfatter, uden noget bearbejdning. JPEG er et komprimeret format, behandlet af kameraet. Når man skal efterbehandle et billede i eksempelvis Lightroom, så bruger man altid RAW, da det giver en det bedst mulige udgangspunkt.</p>
+                <p>RAW er det filformat man skal bruge, da det er direkte hvad kameraets sensor opfatter, uden noget bearbejdning.<br>JPEG er et komprimeret format, behandlet af kameraet.<br>Når man skal efterbehandle et billede i eksempelvis Lightroom, så bruger man altid RAW, da det giver en det bedst mulige udgangspunkt.</p>
             
                 <h3>Lukkertid/Shutter Speed</h3>
                     <ul>
@@ -70,7 +70,7 @@
         <h3>AV(Blændeforvalg)</h3>
                 <p>Man indstiller selv blænde og kameraet beregner lukkertid. </p>
         <h3>Øvrige programmer</h3>
-                <p>Kameraet har forskellige ’shooting modes’ hvor programmet er optimeret til forskellige bestemte type billeder. Man har ikke selv kontrol over noget. </p>
+                <p>Kameraet har forskellige ’shooting modes’ hvor programmet er optimeret til forskellige bestemte type billeder.<br>Man har ikke selv kontrol over noget. </p>
       </div>
     </div>
   </div>

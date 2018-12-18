@@ -17,8 +17,9 @@
         <h1>Grundlæggende kommunikation</h1>
         <p>Kommunikation defineres: ”En proces hvor vi meddeler os til hinanden”</p>
         <p>Kommunikation betyder egentlig meddelelse og kommer af ordet ”communicare” fra latin, betyder ’At gøre fælles’</p>
-        <p>Mennesket kan ikke eksistere uden kommunikation. Vi kommunikerer blandt andet med vores påklædning, mimik, kropsholdning, stemmeføring, kommunikationsformer som er både bevidste og ubevidste. </p>
-        <p>Kommunikation har altid været en udfordring for mig, så jeg var lidt bekymret da vi skulle have det som emne. Da jeg har Aspergers har jeg meget svært ved at tolke specielt non-verbal kommunikation, men også generel kommunikation, så det vidste jeg ville blive en udfordring. 
+        <p>Mennesket kan ikke eksistere uden kommunikation. <br> Vi kommunikerer blandt andet med vores påklædning, mimik, kropsholdning, stemmeføring, kommunikationsformer som er både bevidste og ubevidste. </p>
+        <p>Kommunikation har altid været en udfordring for mig, så jeg var lidt bekymret da vi skulle have det som emne. <br>
+        Da jeg har Aspergers har jeg meget svært ved at tolke specielt non-verbal kommunikation, men også generel kommunikation, så det vidste jeg ville blive en udfordring. <br>
         Faget har dog hjulpet mig med at skabe en overordnet struktur omkring kommunikation, så det ikke længere føles som et abstrakt emne. 
         </p>
         
