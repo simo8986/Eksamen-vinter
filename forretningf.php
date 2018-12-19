@@ -15,7 +15,8 @@
        <div class="indhold">
         <h1>Forretningsforståelse</h1>
             <p>Produktionsvirksomheder: Fremstiller/Forandre varer <br> 
-            Handelsvirksomhed: Køber og sælger varer - ingen forarbejdning. Engros og detail. <br>Servicevirksomheder: Sælger uhåndgribelige varer/tjenesteydelser. Varen/ydelsen kan ikke lagres.</p>
+            Handelsvirksomhed: Køber og sælger varer - ingen forarbejdning. Engros og detail. <br>Servicevirksomheder: Sælger uhåndgribelige varer/tjenesteydelser. Varen/ydelsen kan ikke lagres.</p></div>
+<div class="accordiongrid"> 
       <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

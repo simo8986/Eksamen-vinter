@@ -23,7 +23,8 @@
             <li>Skabe og fastholde interesse</li>
         </ol>
         <p>Det er vigtigt at kende kommunikationssituationen, kende ens modtagere, ens budskab, og en selv som afsender.</p>
-        <img src="billeder/kommunikation/pteknikker.jpg" alt="Præsentationsteknikker">
+        <img src="billeder/kommunikation/pteknikker.jpg" alt="Præsentationsteknikker"></div>
+<div class="accordiongrid"> 
     <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

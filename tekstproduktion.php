@@ -14,7 +14,8 @@
         </div>
        <div class="indhold">
         <h1>Tekstproduktion</h1>
-        <p>Når man skriver en tekst er det vigtig man har fokus på målgruppen, og den rette strategi man skal bruge. Ikke alle tekster kan bruges universalt.</p>
+        <p>Når man skriver en tekst er det vigtig man har fokus på målgruppen, og den rette strategi man skal bruge. Ikke alle tekster kan bruges universalt.</p></div>
+<div class="accordiongrid"> 
         
     <div class="accordion" id="accordionExample">
   <div class="card">

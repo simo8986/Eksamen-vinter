@@ -18,8 +18,9 @@
         <p>Brugertesten kan have to formål; at informere eller bekræfte.<br>Man kan bruge den til at finde ud af og forstår hvor brugeren oplever problemer, og den kan bruges til at vise overfor andre hvor problemerne opstår.<br>Det kan eksempelvis være overfor udviklere, eller dem der styre ressourcerne der skal bruges til at ordne det. </p>
         <p>Når man skal finde problemer er det vigtigt ikke at gå efter at få bekræftet ting man ved, men at lade sig informere.<br>Skal man bekræfte overfor andre at der er problemer, kan man bruge brugertests til at vise at der er et konkret problem for brugeren. </p>
         <p>Når man udfører en eller flere brugertests går det ud fra en idé om brugerinddragelse.<br>Det handler om at forstå brugerens behov, motivation og adfærd, og om at inddrage brugerne for at validere den navigation, prioritering, kommunikation eller andet, det udvikles.<br>Det handler altså om at se brugeren som medudvikler, så den er således med til at kvalitet sikre løsningen. </p>
-        <p>Man bør udføre brugertests under hele forløbet, da det ikke er tænkt som en afsluttende kvalitetstjek.<br>Det sker ofte for lidt, og for sent. Det skal derfor foregå Før – Under – Efter forløbet.</p>
+        <p>Man bør udføre brugertests under hele forløbet, da det ikke er tænkt som en afsluttende kvalitetstjek.<br>Det sker ofte for lidt, og for sent. Det skal derfor foregå Før – Under – Efter forløbet.</p></div>
         
+<div class="accordiongrid"> 
     <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

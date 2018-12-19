@@ -14,8 +14,8 @@
         </div>
        <div class="indhold">
         <h1>Grundlæggende Design</h1>
-        <p>Design er det fag jeg havde mest styr på da vi startede uddannelsen, men jeg vidste også at jeg kunne optimere mit workflow en del.<br>Det har jeg lært en del af, da vi tog principperne helt fra begyndelsen, så jeg føler mig meget mere effektiv og grundig på baggrund af vores læring.</p>
-        
+        <p>Design er det fag jeg havde mest styr på da vi startede uddannelsen, men jeg vidste også at jeg kunne optimere mit workflow en del.<br>Det har jeg lært en del af, da vi tog principperne helt fra begyndelsen, så jeg føler mig meget mere effektiv og grundig på baggrund af vores læring.</p></div>
+        <div class="accordiongrid">
         <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

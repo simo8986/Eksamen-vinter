@@ -17,7 +17,9 @@
         <p>Isaac Newton viste i 1600-tallet lysets brydning igennem et prisme.<br>Ved hjælp af hans eksperimenter konkluderede han at blå, gul og rød er de primære farver, da de ikke kan blandes ud af andre farver. </p>
            <img src="billeder/design/newton.jpg" alt="Isaac Newton">
         <p>Det er værd at nævne at et farvesystem ikke er absolut, men bygger på flere teoretiske opfattelser, og kan være forskellige fra kultur til kultur. </p>
-           <img src="billeder/design/prism.jpg" alt="Prisme">
+           <img src="billeder/design/prism.jpg" alt="Prisme"></div>
+        
+<div class="accordiongrid"> 
       <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

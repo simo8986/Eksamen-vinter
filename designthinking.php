@@ -18,7 +18,8 @@
         <p>Det er en måde at arbejde med User Centered Design(UCD), da man inddrager faktiske brugere.<br>Det er en måde at nå frem til den bedste løsning der reelt løser problemstillingen. </p>
         <p>Der er 5 faser i Design Thinking: Empathize, Define, Ideate, Prototype, og Test. <br>I nogen modeller er der også en 6 der hedder Implement.<br>Det er ikke en lineær proces, da man altid kan hoppe et trin tilbage. </p>
         <p>Man tænker i divergente og konvergente baner.<br>Når man tænker divergent tænker man kreativt, eksempelvis i en brainstorm.<br>Når man så tænker konvergent, så sortere man fra. Man indskrænker. </p>
-        <img src="billeder/kommunikation/design-thinking.png" alt="Design Thinking faser">
+        <img src="billeder/kommunikation/design-thinking.png" alt="Design Thinking faser"></div>
+<div class="accordiongrid"> 
         
         <div class="accordion" id="accordionExample">
   <div class="card">

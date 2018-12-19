@@ -34,7 +34,8 @@
             <li>Transmission</li>
             <li>Handlingsanvisende</li>
             <li>Modtageren ses som passiv</li>
-        </ul>
+        </ul></div>
+<div class="accordiongrid"> 
      <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

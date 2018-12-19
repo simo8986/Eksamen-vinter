@@ -4,9 +4,8 @@
 
 #grid {
     display: grid;
-    grid-gap: 10px;
-    width: auto%;
     grid-template-columns: 1fr;
+    height: 100%;
     grid-template-areas:
         "nav"
         "indhold";
@@ -81,7 +80,7 @@ h1 {
     font-family: 'Playfair Display', serif;
     font-size: 6vw;
     text-align: center;
-    padding: 20px 0 5px 0;
+    padding: 30px 0 5px 0;
     border-bottom: 0.1px double #435757;
     margin-bottom: 0px;
 }
@@ -170,13 +169,28 @@ li a:hover, p a:hover {
     }
 }
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 1000px) {
+     html {
+        background-image:url(billeder/baggrund6.png);
+        min-height: 100%;
+        min-width: 100%;
+        background-repeat: repeat;
+    }
     
     #grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 2.5fr 1.5fr;
+        width: auto;
+        grid-gap: 15px;
         grid-template-areas:
-        "indhold"
+        "indhold accordion"
+        ". accordion"
+        ". accordion";
     }
+    
+    h1 {
+        padding-top: 20px;
+    }
+    
     p {
         font-size: 15px;
     }
@@ -215,14 +229,38 @@ li a:hover, p a:hover {
         padding-bottom: 0px;
     }
     
-    .navbar-expand-lg .navbar-nav {
-        margin: auto;
-        width: 50%;
+    .indhold {
+        margin-left: 5%;
+        background-color: white;
+        border: 1px solid #435757;
+        height: auto;
+        width: auto;
     }
     
-    .indhold {
-        margin-left: 10%;
-        margin-right: 10%;
-        width: 80%
+    .accordiongrid {
+        grid-area: accordion;
+        height: auto;
+        margin-top: 2%;
+        margin-right: 5%;
+    }
+    
+    #grid, body {
+        background-color: transparent;
+    }
+    
+   
+}
+
+@media screen and (min-width: 2000px) {
+    p, li {
+        font-size: 20px;
+    }
+    
+    .accordiongrid {
+        margin-top: 2%;
+    }
+    
+    body {
+        padding-top: 1%;
     }
 }

@@ -30,8 +30,8 @@
             <li>Modtagerorienteret</li>
             <li>Mennesket ses som aktivt</li>
         </ul>
-        <p>Generelt set ligestiller paradigmet afsender og modtager, og lægger fokus på kommunikationssituationen.<br> Der skal en modtager til at fortolke en tekst, ellers eksisterer den ikke i kommunikativ forstand. </p>
-        
+        <p>Generelt set ligestiller paradigmet afsender og modtager, og lægger fokus på kommunikationssituationen.<br> Der skal en modtager til at fortolke en tekst, ellers eksisterer den ikke i kommunikativ forstand. </p></div>
+<div class="accordiongrid">        
 <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

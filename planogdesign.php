@@ -15,8 +15,9 @@
        <div class="indhold">
         <h1>Planlægning og overordnet design</h1>
         <p>Når man skal lave en hjemmeside, så skal man planlægge designet og indholdet inden.<br>Det kræver at man får sat sig godt ind i hvad budskabet af hjemmesiden er.</p>
-        <img src="billeder/webudvikling/brainstorm.png" alt="Brainstorm">
+        <img src="billeder/webudvikling/brainstorm.png" alt="Brainstorm"></div>
         
+<div class="accordiongrid"> 
    <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

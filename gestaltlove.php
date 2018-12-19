@@ -15,8 +15,9 @@
        <div class="indhold">
         <h1>Gestaltlove</h1>
         <p>Gestaltlove handler om at se helheder.</p>
-        <img src="billeder/design/gestalt.jpg" alt="Gestalt love">
+        <img src="billeder/design/gestalt.jpg" alt="Gestalt love"></div>
         
+<div class="accordiongrid"> 
    <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

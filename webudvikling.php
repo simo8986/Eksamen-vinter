@@ -14,8 +14,8 @@
         </div>
        <div class="indhold">
         <h1>Grundlæggende webudvikling</h1>
-        <p>Jeg havde en del erfaring allerede da vi startede webudvikling, men det gik hurtigt op for mig at jeg havde meget ’spring ud i det’ erfaring, og ikke så meget teorien bag, mere ’det her virker’ men ikke ’den her virker fordi’.<br>Så jeg er bestemt blevet klogere, og mere organiseret.</p>
-   
+        <p>Jeg havde en del erfaring allerede da vi startede webudvikling, men det gik hurtigt op for mig at jeg havde meget ’spring ud i det’ erfaring, og ikke så meget teorien bag, mere ’det her virker’ men ikke ’den her virker fordi’.<br>Så jeg er bestemt blevet klogere, og mere organiseret.</p></div>
+   <div class="accordiongrid">
     <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

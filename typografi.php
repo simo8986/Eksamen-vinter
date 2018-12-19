@@ -14,7 +14,8 @@
         </div>
        <div class="indhold">
         <h1>Typografi</h1>
-        
+        </div>
+<div class="accordiongrid"> 
         <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

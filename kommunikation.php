@@ -21,8 +21,8 @@
         <p>Kommunikation har altid været en udfordring for mig, så jeg var lidt bekymret da vi skulle have det som emne. <br>
         Da jeg har Aspergers har jeg meget svært ved at tolke specielt non-verbal kommunikation, men også generel kommunikation, så det vidste jeg ville blive en udfordring. <br>
         Faget har dog hjulpet mig med at skabe en overordnet struktur omkring kommunikation, så det ikke længere føles som et abstrakt emne. 
-        </p>
-        
+           </p></div>
+        <div class="accordiongrid">
         <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">
@@ -101,12 +101,13 @@
     </div>
   </div>
 </div>
+</div>
            
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-        </div>
+        
         </div>
 	</body>
 </html>

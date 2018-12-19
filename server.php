@@ -14,8 +14,9 @@
         </div>
        <div class="indhold">
         <h1>Server</h1>
-        <p>Server er både hardware med en særlig rolle, og software med en særlig rolle.<br>En server bruges via. en klient. Klienten er et program der kobler sig til serveren, og udveksler information med den.<br>En webserver kommunikerer med en web-klient (browser)</p>
+        <p>Server er både hardware med en særlig rolle, og software med en særlig rolle.<br>En server bruges via. en klient. Klienten er et program der kobler sig til serveren, og udveksler information med den.<br>En webserver kommunikerer med en web-klient (browser)</p></div>
         
+<div class="accordiongrid"> 
    <div class="accordion" id="accordionExample">
   <div class="card">
     <div class="card-header" id="headingOne">

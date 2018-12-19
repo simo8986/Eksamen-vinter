@@ -15,7 +15,8 @@
        <div class="indhold">
         <h1>Videnskabsteori</h1>
         <p>Metoden er vigtig når man forsker, Det er den fremgangsmåde man anvender når man helt konkret undersøger et eller andet.</p>
-        <p>Der findes ikke én metode, som man kan undersøge alt med.<br>Forskere i forskellige fag undersøger forskellige fænomener, og bruger derfor forskellige metoder.<br>Det er for eksempel stor forskel på at fortolke en tekst, og at undersøge hvordan hjernen reagere på forelskelse. </p>
+        <p>Der findes ikke én metode, som man kan undersøge alt med.<br>Forskere i forskellige fag undersøger forskellige fænomener, og bruger derfor forskellige metoder.<br>Det er for eksempel stor forskel på at fortolke en tekst, og at undersøge hvordan hjernen reagere på forelskelse. </p></div>
+<div class="accordiongrid"> 
         
     <div class="accordion" id="accordionExample">
   <div class="card">
