@@ -14,6 +14,19 @@
         </div>
        <div class="indhold">
         <h1>Typografi</h1>
+           <p>10 gode råd om typografi:</p>
+           <ol>
+                <li>Know your font family</li>
+                <li>Combine a sans-Serif font with a Serif font</li>
+                <li>Combine a Serif font with a sans-Serif font</li>
+                <li>Combining 2 similar fonts is not cool</li>
+                <li>Contrast is the key</li>
+                <li>Stick to 2 fonts. Only go for 3 if you must</li>
+                <li>Don’t mix different moods</li>
+                <li>Combine fonts of complementary moods and of similar time eras</li>
+                <li>Use different weights of fonts in the same family</li>
+                <li>Avoid these fonts: Papyrus, Comic Sans, Curlz, Viner, Kristen</li>
+            </ol>
         </div>
 <div class="accordiongrid"> 
         <div class="accordion" id="accordionExample">
@@ -63,32 +76,6 @@
                 <p>Det benyttes ofte som brødtekst, da fødderne gør store mængde tekst lettere at læse.<br>’Fødderne’ danner en linje for øjnene at følge.<br>Den bliver opfattet som gammeldags, og bruges mindre og mindre som brødtekst på hjemmesider, mere på print.</p>
             <h3>Sans Serif/Grotesk</h3>
                 <p>’Sans’ betyder uden på Fransk, så det er ’uden Serif’ – altså uden ’fødder’.<br>Den benyttes ofte til overskrifter, da den moderne stil giver en god kontrast til en lettere læselig Serif.<br>Den bliver dog brugt mere og mere til brødtekst på hjemmesider, fremfor Serif.</p>
-      </div>
-    </div>
-  </div>
-        
-      <div class="card">
-    <div class="card-header" id="headingThree">
-      <h5 class="mb-0">
-        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-          <h2>10 Gode råd om typografi</h2>
-        </button>
-      </h5>
-    </div>
-    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-      <div class="card-body">
-        <ol>
-                <li>Know your font family</li>
-                <li>Combine a sans-Serif font with a Serif font</li>
-                <li>Combine a Serif font with a sans-Serif font</li>
-                <li>Combining 2 similar fonts is not cool</li>
-                <li>Contrast is the key</li>
-                <li>Stick to 2 fonts. Only go for 3 if you must</li>
-                <li>Don’t mix different moods</li>
-                <li>Combine fonts of complementary moods and of similar time eras</li>
-                <li>Use different weights of fonts in the same family</li>
-                <li>Avoid these fonts: Papyrus, Comic Sans, Curlz, Viner, Kristen</li>
-            </ol>
       </div>
     </div>
   </div>

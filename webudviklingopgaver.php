@@ -14,6 +14,7 @@
         </div>
        <div class="indhold">
         <h1>Opgaver</h1>
+           <p>I webudvikling har vi haft få, men større opgaver. De har også ofte været mere tidskrævende. De kan ses eller downloades her.</p>
            </div>
         
 <div class="accordiongrid"> 

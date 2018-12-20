@@ -14,7 +14,7 @@
         </div>
        <div class="indhold">
         <h1>Opgaver</h1>
-        <!--- indsæt indhold! --->
+        <p>I kommunikation har vi haft en del varieret opgaver. Nogen af opgaverne kan ses, eller downloades her.</p>
         </div>
 <div class="accordiongrid"> 
         <div class="accordion" id="accordionExample">

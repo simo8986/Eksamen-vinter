@@ -14,6 +14,7 @@
         </div>
        <div class="indhold">
         <h1>Opgaver</h1>
+           <p>I Design har vi ikke haft så mange opgaver, mere 'følg med og gør det samme'. Men det vi har lavet i timerne kan ses, eller downloades her.</p>
            </div>
 <div class="accordiongrid"> 
         <div class="accordion" id="accordionExample">

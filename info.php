@@ -22,7 +22,7 @@
             <p>Til trods for det syntes jeg at efter jeg har været nødt til at sætte mig ned og gennemgå alt vores materiale igen meget grundigt, så føler jeg at jeg er sat bedre ind i emnerne end jeg var før. <br> Jeg tror endda jeg ville kunne huske at sige ’det samfundsvidenskabelige paradigme’ nu, i stedet for ’ det øh, et eller andet videnskabelige paradigme’. Så der er da kommet lidt ud af det. Måske. 
             </p>
             <p>Da jeg startede på uddannelsen skulle vi beskrive hvorfor vi havde valgt multimediedesigner, og hvad der tiltalte os. Mine besvarelser er her:
-             
+             <br>
             <a href="filer/svar.pdf" download>Download mine svar ved at klikke her</a></p>
             
             <p>Mine grunde har ikke ændret sig, jeg føler mig dog en del mere sikker i mine kompetencer, og jeg har følelsen af jeg har valgt rigtigt.<br>
