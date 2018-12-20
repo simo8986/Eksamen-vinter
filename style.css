@@ -83,6 +83,7 @@ h1 {
     padding: 30px 0 5px 0;
     border-bottom: 0.1px double #435757;
     margin-bottom: 0px;
+    color: #435757;
 }
 
 h2 {
@@ -95,6 +96,7 @@ h2 {
 
 h3 {
     font-weight: bold;
+    color: #435757;
 }
 
 .youtube {
@@ -135,6 +137,17 @@ li a:hover, p a:hover {
     color: #435757;
 }
 
+.caption {
+    color: #435757;
+}
+    
+.caption:hover {
+    color: #829E90;
+}
+
+.row a {
+    text-decoration-color: #829E90;
+}
 @media screen and (min-width: 700px) {
     p {
         font-size: 30px;
@@ -171,7 +184,8 @@ li a:hover, p a:hover {
 
 @media screen and (min-width: 1000px) {
      html {
-        background-image:url(billeder/baggrund6.png);
+        background-image:url(billeder/baggrund7.png);
+        background-color: #f4f6f3;
         min-height: 100%;
         min-width: 100%;
         background-repeat: repeat;
@@ -248,7 +262,17 @@ li a:hover, p a:hover {
         background-color: transparent;
     }
     
+    .row {
+        background-color: white;
+        margin-left: inherit;
+    }
    
+    .accordiongrid ul {
+        background-color: white;
+        border: 1px solid black;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 
 @media screen and (min-width: 2000px) {

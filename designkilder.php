@@ -15,7 +15,15 @@
        <div class="indhold">
         <h1>Kilder</h1>
             <ul>
-                <li><a href="https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-One-One-Fundamentals/633853-2.html ">Illustrator CC 2018 fundamentals  - lynda.com</a></li>
+                <li>Gestaltlove – Powerpoint af Carsten Kjeldsen Bogner d. 02-10-2018</li>
+                <li>Typografi – Powerpoint af Carsten Kjeldsen Bogner d. 25-09-2018</li>
+                <li>Farvelære – Powerpoint af Carsten Kjeldsen Bogner d. 25-09-2018</li>
+                <li>Præsentation om kamerafunktionalitet – Powerpoint af Niels Østergaard d. 21-09-2018</li>
+           </ul> </div> <!--- indhold slut --->
+        <!--- accordion start --->
+        <div class="accordiongrid">
+            <ul>
+            <li><a href="https://www.lynda.com/Illustrator-tutorials/Illustrator-CC-2018-One-One-Fundamentals/633853-2.html ">Illustrator CC 2018 fundamentals  - lynda.com</a></li>
                 <li><a href="https://www.lynda.com/Photoshop-tutorials/Photoshop-CC-2018-Essential-Training-Basics/625922-2.html ">Photoshop CC 2018 essentials - lynda.com</a></li>
                 <li><a href="https://www.lynda.com/Photography-tutorials/Photography-Graphic-Designers/574711-2.html">Photography for Graphic Designers - lynda.com</a></li>
                 <li><a href="https://www.lynda.com/Photoshop-tutorials/Learn-Product-Photography-Fundamentals/439679-2.html">Product photography - lynda.com</a></li>
@@ -42,18 +50,14 @@
                 <li><a href="https://www.youtube.com/watch?v=0qcWeuWCkJ4&t=115s">Fritlægning</a></li>
                 <li><a href="https://www.youtube.com/watch?v=i_pEwxmmBAM ">Compositing effects</a></li>
                 <li><a href="https://www.youtube.com/watch?v=1GpY3Uh50jQ ">Blend modes</a></li>
-                <li><a href="https://www.youtube.com/watch?v=ijzXMm4mCuY ">Select and change any color</a></li>
-                <li>Gestaltlove – Powerpoint af Carsten Kjeldsen Bogner d. 02-10-2018</li>
-                <li>Typografi – Powerpoint af Carsten Kjeldsen Bogner d. 25-09-2018</li>
-                <li>Farvelære – Powerpoint af Carsten Kjeldsen Bogner d. 25-09-2018</li>
-                <li>Præsentation om kamerafunktionalitet – Powerpoint af Niels Østergaard d. 21-09-2018</li>
-            </ul>
+                <li><a href="https://www.youtube.com/watch?v=ijzXMm4mCuY ">Select and change any color</a></li></ul>
+        
+        </div>
         
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-        </div>
         </div>
 	</body>
 </html>

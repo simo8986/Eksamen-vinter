@@ -15,16 +15,18 @@
        <div class="indhold">
         <h1>Responsivt Design</h1>
         <p>Enheder har forskellige skærmstørrelser, og forskellige opløsninger.<br>Derfor skal man designe så hjemmesiden er optimal på alle størrelser. Det gør man ved at bruge responsivt design.</p>
-           <img src="billeder/webudvikling/responsiv.png" alt="responsivt design">
         <p>Ved responsivt design tænker man mobile first, hvilket betyder at man laver mobilversionen først.<br>Det betyder også at man ikke kan starte før man har planlagt sit design. </p>
         <p>Man giver siden ’breakpoints’, som er den bredde hvor en regel overtager fra en anden.<br>Man styler hvert breakpoint, så det passer til enheden.<br>Man laver breakpoints med mediaqueries.<br>Når det er mobile first bruger man min-width. </p>
-        <p>Når man bruger mediaqueries skal man give et viewport meta-tag til siden.<br>Det fortæller mobile enheder at de ikke skal forsøge at skalere hjemmesiden ned så den passer.</p>
+        <p>Når man bruger mediaqueries skal man give et viewport meta-tag til siden.<br>Det fortæller mobile enheder at de ikke skal forsøge at skalere hjemmesiden ned så den passer.</p></div> <!--- indhold slut --->
+        <!--- Accordion start --->
+        <div class="accordiongrid">
+            <img src="billeder/webudvikling/responsiv.png" alt="responsivt design">
+        </div>
         
         <!--- Javascript --->
         <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-        </div>
         </div>
 	</body>
 </html>
